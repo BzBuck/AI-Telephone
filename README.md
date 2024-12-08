@@ -2,7 +2,7 @@
 Blake Buckner - December 8th 2024
 
 This is my MS 38 Final Project. 
-This is a program designed to mix computer vision and image generation to make AI automatically play the game telephone with itself. For full use see the [Main Jupyter Notebook](image2text2image.ipynb).
+This is a program designed to mix computer vision and image generation to make AI automatically play the game telephone with itself. For full use see the Main Jupyter Notebook [image2text2image.ipynb](image2text2image.ipynb).
 
 
 This uses the OpenAI Models gpt4o-mini and dall-e, which means to use it you must have an OpenAI api key and some token credits for its use. This means it is not quite free to actually use but the costs are still very minimal. If desired this code could be expanded to use other fully free models but I do not have a direct way to integrate them and they are would likely be worse quality.

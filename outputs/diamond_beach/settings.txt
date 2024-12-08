@@ -1,0 +1,9 @@
+name = diamond_beach
+detail = 200
+steps = 4
+dalle_version = 2
+start_url = https://i.pinimg.com/originals/c5/20/e6/c520e6f5d7d8ba9b8f1ebd2344804041.jpg
+prompt = '''   You must use a max of 200 characters. 
+                You are an AI that describes images in great detail. 
+                Your task is to look at the input image and provide a comprehensive description.
+'''

@@ -1,0 +1,9 @@
+name = deltron
+detail = 100
+steps = 6
+dalle_version = 3
+start_url = https://vinylcoverart.com/pics/d/deltron-3030-deltron-3030-big.jpg
+prompt = '''   You must use a max of 100 characters. 
+                You are an AI that describes images in great detail. 
+                Your task is to look at the input image and provide a comprehensive description.
+'''

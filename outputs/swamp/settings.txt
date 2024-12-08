@@ -1,0 +1,9 @@
+name = swamp
+detail = 40
+steps = 6
+dalle_version = 3
+start_url = https://i.discogs.com/ZtcF0m3weihMBRQIXKaab3Su1nPDc_r_6PpmTSBbuGM/rs:fit/g:sm/q:90/h:544/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzM2/OTQ0LTE2MTI4OTEx/OTMtOTMzMy5qcGVn.jpeg
+prompt = '''   You must use a max of 40 characters. 
+                You are an AI that describes images in great detail. 
+                Your task is to look at the input image and provide a comprehensive description.
+'''

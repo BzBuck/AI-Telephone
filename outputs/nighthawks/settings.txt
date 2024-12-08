@@ -1,0 +1,9 @@
+name = nighthawks
+detail = 200
+steps = 6
+dalle_version = 3
+start_url = https://wallpapercave.com/wp/wp5115729.jpg
+prompt = '''   You must use a max of 200 characters. 
+                You are an AI that describes images in great detail. 
+                Your task is to look at the input image and provide a comprehensive description.
+'''

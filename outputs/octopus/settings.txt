@@ -1,0 +1,9 @@
+name = octopus
+detail = 400
+steps = 6
+dalle_version = 3
+start_url = https://wallpaperset.com/w/full/f/3/6/24812.jpg
+prompt = '''   You must use a max of 400 characters. 
+                You are an AI that describes images in great detail. 
+                Your task is to look at the input image and provide a comprehensive description.
+'''

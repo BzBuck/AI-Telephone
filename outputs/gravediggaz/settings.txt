@@ -1,0 +1,9 @@
+name = gravediggaz
+detail = 100
+steps = 6
+dalle_version = 3
+start_url = https://th.bing.com/th/id/R.2fd05bf200d6dae8dd283a0d6b4e2f3d?rik=cLpa0rrFZ7ln2A&riu=http%3a%2f%2fhiphopgoldenage.com%2fwp-content%2fuploads%2f2016%2f04%2f276-1994.png&ehk=ktG5PzXGf6SPF6PQUfIBa2mZeoypYgzDpYHhYzNO0Rk%3d&risl=&pid=ImgRaw&r=0
+prompt = '''   You must use a max of 100 characters. 
+                You are an AI that describes images in great detail. 
+                Your task is to look at the input image and provide a comprehensive description.
+'''

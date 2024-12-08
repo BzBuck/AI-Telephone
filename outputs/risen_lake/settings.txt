@@ -1,0 +1,9 @@
+name = risen_lake
+detail = 400
+steps = 4
+dalle_version = 2
+start_url = https://artlogic-res.cloudinary.com/w_2400,h_2400,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/rogerdean/images/view/5e4def152b4e47d8ef0b1db7f074a9bdj/tradingboundariesfineart-roger-dean-close-to-the-edge-iii-2018.jpg
+prompt = '''   You must use a max of 400 characters. 
+                You are an AI that describes images in great detail. 
+                Your task is to look at the input image and provide a comprehensive description.
+'''

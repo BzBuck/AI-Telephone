@@ -1,0 +1,9 @@
+name = plastic_beach
+detail = 100
+steps = 6
+dalle_version = 2
+start_url = https://th.bing.com/th/id/R.43a0ffd6d7f9b768d79d8dc30d9a297f?rik=CCoeMzr6KsIa9A&riu=http%3a%2f%2fwallpapercave.com%2fwp%2fpd8xfGA.jpg&ehk=nBjN3oxZofNyHEAu%2bvNWoD7mU5oKeuhGk7xW2BckWy8%3d&risl=&pid=ImgRaw&r=0
+prompt = '''   You must use a max of 100 characters. 
+                You are an AI that describes images in great detail. 
+                Your task is to look at the input image and provide a comprehensive description.
+'''
